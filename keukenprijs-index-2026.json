@@ -1,0 +1,173 @@
+{
+  "naam": "Keukenprijs-index Nederland",
+  "editie": 2026,
+  "beschrijving": "Richtprijzen voor een complete nieuwe keuken in Nederland, per opstelling en per merk. Onafhankelijk samengesteld door Keuken in Beeld, dat zelf geen keukens verkoopt.",
+  "bron": "Keuken in Beeld",
+  "bronUrl": "https://keukeninbeeld.nl/keukenprijs-index",
+  "uitgever": {
+    "naam": "Keuken in Beeld",
+    "onderdeelVan": "Alfa Reclame",
+    "kvk": "88606902"
+  },
+  "licentie": "https://creativecommons.org/licenses/by/4.0/",
+  "citatie": "Keukenprijs-index 2026, Keuken in Beeld (keukeninbeeld.nl)",
+  "bijgewerkt": "2026-07-18",
+  "taal": "nl-NL",
+  "land": "NL",
+  "valuta": "EUR",
+  "grondslag": "Bedragen zijn richtprijzen inclusief btw, apparatuur en montage, tenzij anders vermeld. Het zijn geen verkoopdata: voor een exact bedrag is altijd een offerte op maat nodig.",
+  "landelijkGemiddelde": {
+    "min": 8000,
+    "max": 25000
+  },
+  "perOpstelling": [
+    {
+      "opstelling": "Rechte keuken",
+      "segmenten": {
+        "instap": {
+          "min": 5000,
+          "max": 7000
+        },
+        "middensegment": {
+          "min": 7000,
+          "max": 12000
+        },
+        "premium": {
+          "min": 12000,
+          "max": 20000
+        }
+      }
+    },
+    {
+      "opstelling": "Hoekkeuken",
+      "segmenten": {
+        "instap": {
+          "min": 7000,
+          "max": 9000
+        },
+        "middensegment": {
+          "min": 9000,
+          "max": 16000
+        },
+        "premium": {
+          "min": 16000,
+          "max": 25000
+        }
+      }
+    },
+    {
+      "opstelling": "Parallelkeuken",
+      "segmenten": {
+        "instap": {
+          "min": 7000,
+          "max": 9000
+        },
+        "middensegment": {
+          "min": 9000,
+          "max": 15000
+        },
+        "premium": {
+          "min": 15000,
+          "max": 25000
+        }
+      }
+    },
+    {
+      "opstelling": "Eilandkeuken",
+      "segmenten": {
+        "instap": {
+          "min": 12000,
+          "max": 15000
+        },
+        "middensegment": {
+          "min": 15000,
+          "max": 25000
+        },
+        "premium": {
+          "min": 25000,
+          "max": 60000,
+          "openBovengrens": true
+        }
+      }
+    }
+  ],
+  "perMerk": [
+    {
+      "merk": "Bruynzeel",
+      "segment": "Instap / pakket",
+      "vanaf": {
+        "min": 4000,
+        "max": 6000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/bruynzeel"
+    },
+    {
+      "merk": "Kvik",
+      "segment": "Instap / vaste prijzen",
+      "vanaf": {
+        "min": 4000,
+        "max": 6000,
+        "opmerking": "excl. montage"
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/kvik"
+    },
+    {
+      "merk": "Bribus",
+      "segment": "Instap / nieuwbouw",
+      "vanaf": {
+        "min": 5000,
+        "max": 7000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/bribus"
+    },
+    {
+      "merk": "Nobilia",
+      "segment": "Volume / midden",
+      "vanaf": {
+        "min": 6000,
+        "max": 8000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/nobilia"
+    },
+    {
+      "merk": "Keller",
+      "segment": "Midden (NL-productie)",
+      "vanaf": {
+        "min": 6000,
+        "max": 8000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/keller"
+    },
+    {
+      "merk": "Schüller",
+      "segment": "Midden",
+      "vanaf": {
+        "min": 7000,
+        "max": 9000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/schuller"
+    },
+    {
+      "merk": "Häcker",
+      "segment": "Midden / hoger",
+      "vanaf": {
+        "min": 8000,
+        "max": 10000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/hacker"
+    },
+    {
+      "merk": "SieMatic",
+      "segment": "Premium",
+      "vanaf": {
+        "min": 25000,
+        "max": 30000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/siematic"
+    }
+  ],
+  "toelichting": {
+    "opstelling": "Richtprijzen inclusief apparatuur en montage. Instap = basisapparatuur en kunststof werkblad; premium = A-merk-apparatuur, steen of keramiek.",
+    "merk": "Vanaf-prijzen voor een rechte tot compacte hoekopstelling; uitgebreide toelichting per merk op de gelinkte merkpagina's."
+  }
+}
