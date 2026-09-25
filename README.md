@@ -4,6 +4,8 @@ Open dataset met richtprijzen voor een complete nieuwe keuken in Nederland — p
 
 Onafhankelijk samengesteld door [Keuken in Beeld](https://keukeninbeeld.nl) (onderdeel van Alfa Reclame, KvK 88606902), dat zelf geen keukens verkoopt. Methodologie, toelichting en de leesbare versie: **https://keukeninbeeld.nl/keukenprijs-index**
 
+**Bijgewerkt: 24-09-2026**
+
 ## Bestanden
 
 | Bestand | Inhoud |
@@ -18,13 +20,24 @@ Canonieke bron (altijd de nieuwste editie): https://keukeninbeeld.nl/keukenprijs
 curl -s https://keukeninbeeld.nl/keukenprijs-index.json | jq '.opstellingen'
 ```
 
-Embed-widget voor websites: https://keukeninbeeld.nl/keukenprijs-index-insluiten
+**Beschikbare hulpmiddelen:**
+- Leesbare versie: https://keukeninbeeld.nl/keukenprijs-index
+- Embed-widget voor websites: https://keukeninbeeld.nl/keukenprijs-index-insluiten
+- Perskit: https://keukeninbeeld.nl/pers
 
 ## Licentie en citeren
 
 CC BY 4.0 — vrij te gebruiken en te citeren met bronvermelding:
 
-> Keukenprijs-index 2026, Keuken in Beeld (keukeninbeeld.nl)
+```
+Keukenprijs-index 2026, Keuken in Beeld (keukeninbeeld.nl) — https://keukeninbeeld.nl/keukenprijs-index — CC BY 4.0
+```
+
+## Wijzigingen
+
+| Datum | Notitie |
+|---|---|
+| 24-09-2026 | controle: LEICHT-band en instap eilandkeuken bijgesteld |
 
 ## English
 

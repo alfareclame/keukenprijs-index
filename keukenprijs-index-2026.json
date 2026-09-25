@@ -11,7 +11,7 @@
   },
   "licentie": "https://creativecommons.org/licenses/by/4.0/",
   "citatie": "Keukenprijs-index 2026, Keuken in Beeld (keukeninbeeld.nl)",
-  "bijgewerkt": "2026-07-18",
+  "bijgewerkt": "2026-09-24",
   "taal": "nl-NL",
   "land": "NL",
   "valuta": "EUR",
@@ -76,7 +76,7 @@
       "opstelling": "Eilandkeuken",
       "segmenten": {
         "instap": {
-          "min": 12000,
+          "min": 9000,
           "max": 15000
         },
         "middensegment": {
@@ -139,6 +139,24 @@
       "url": "https://keukeninbeeld.nl/keukenmerken/keller"
     },
     {
+      "merk": "Nolte",
+      "segment": "Midden",
+      "vanaf": {
+        "min": 7000,
+        "max": 9000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/nolte"
+    },
+    {
+      "merk": "Ballerina",
+      "segment": "Midden",
+      "vanaf": {
+        "min": 7000,
+        "max": 9000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/ballerina"
+    },
+    {
       "merk": "Schüller",
       "segment": "Midden",
       "vanaf": {
@@ -148,6 +166,15 @@
       "url": "https://keukeninbeeld.nl/keukenmerken/schuller"
     },
     {
+      "merk": "Rotpunkt",
+      "segment": "Midden / hoger",
+      "vanaf": {
+        "min": 8000,
+        "max": 10000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/rotpunkt"
+    },
+    {
       "merk": "Häcker",
       "segment": "Midden / hoger",
       "vanaf": {
@@ -155,6 +182,42 @@
         "max": 10000
       },
       "url": "https://keukeninbeeld.nl/keukenmerken/hacker"
+    },
+    {
+      "merk": "next125",
+      "segment": "Premium",
+      "vanaf": {
+        "min": 12000,
+        "max": 16000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/next125"
+    },
+    {
+      "merk": "LEICHT",
+      "segment": "Premium",
+      "vanaf": {
+        "min": 20000,
+        "max": 30000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/leicht"
+    },
+    {
+      "merk": "Poggenpohl",
+      "segment": "Premium / luxe",
+      "vanaf": {
+        "min": 25000,
+        "max": 30000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/poggenpohl"
+    },
+    {
+      "merk": "bulthaup",
+      "segment": "Premium / luxe",
+      "vanaf": {
+        "min": 25000,
+        "max": 30000
+      },
+      "url": "https://keukeninbeeld.nl/keukenmerken/bulthaup"
     },
     {
       "merk": "SieMatic",
