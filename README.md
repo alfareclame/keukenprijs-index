@@ -4,6 +4,8 @@ Open dataset met richtprijzen voor een complete nieuwe keuken in Nederland — p
 
 Onafhankelijk samengesteld door [Keuken in Beeld](https://keukeninbeeld.nl) (onderdeel van Alfa Reclame, KvK 88606902), dat zelf geen keukens verkoopt. Methodologie, toelichting en de leesbare versie: **https://keukeninbeeld.nl/keukenprijs-index**
 
+Datasetpagina (GitHub Pages): https://alfareclame.github.io/keukenprijs-index/
+
 **Bijgewerkt: 24-09-2026**
 
 ## Bestanden
@@ -11,6 +13,7 @@ Onafhankelijk samengesteld door [Keuken in Beeld](https://keukeninbeeld.nl) (ond
 | Bestand | Inhoud |
 |---|---|
 | `keukenprijs-index-2026.json` | De volledige index (UTF-8 JSON, Nederlandstalige sleutels) |
+| `index.html` | Datasetpagina, gegenereerd door `build.py` uit de JSON (niet met de hand bewerken) |
 
 Canonieke bron (altijd de nieuwste editie): https://keukeninbeeld.nl/keukenprijs-index.json
 
