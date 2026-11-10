@@ -3,3 +3,4 @@
 set -e
 curl -fsSL https://keukeninbeeld.nl/keukenprijs-index.json -o keukenprijs-index-2026.json
 echo "bijgewerkt: $(date -u +%F)"
+python build.py

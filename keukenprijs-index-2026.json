@@ -6,12 +6,14 @@
   "bronUrl": "https://keukeninbeeld.nl/keukenprijs-index",
   "uitgever": {
     "naam": "Keuken in Beeld",
-    "onderdeelVan": "Alfa Reclame",
+    "onderdeelVan": "Aanloop AI",
     "kvk": "88606902"
   },
   "licentie": "https://creativecommons.org/licenses/by/4.0/",
   "citatie": "Keukenprijs-index 2026, Keuken in Beeld (keukeninbeeld.nl)",
   "bijgewerkt": "2026-09-24",
+  "n": 28,
+  "peildatum": "2026-09-24",
   "taal": "nl-NL",
   "land": "NL",
   "valuta": "EUR",
